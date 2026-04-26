@@ -1,0 +1,40 @@
+{
+  "name": "vaultx",
+  "version": "1.0.0",
+  "description": "Gestionnaire de mots de passe chiffré offline-first — The Engine Hackathon 2025-2026",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "lint": "eslint src --ext .js,.jsx",
+    "format": "prettier --write src/**/*.{js,jsx,css}"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "dexie": "^3.2.7",
+    "zxcvbn": "^4.4.2",
+    "zustand": "^4.5.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8",
+    "vitest": "^2.1.4",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/jest-dom": "^6.5.0",
+    "@playwright/test": "^1.48.0",
+    "eslint": "^9.13.0",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.14",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47"
+  },
+  "keywords": ["password-manager", "security", "offline", "encryption", "aes-256", "francophone", "africa"],
+  "author": "ALE GONH-GOH Olushègun Clinton & KOUDADZE Kodjogan Josias — IPNET Institute of Technology",
+  "license": "MIT",
+  "homepage": "https://github.com/votre-username/vaultx"
+}

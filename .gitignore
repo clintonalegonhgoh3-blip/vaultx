@@ -1,0 +1,44 @@
+# Dépendances
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+dist/
+dist-ssr/
+*.local
+
+# Variables d'environnement (NE JAMAIS COMMITER)
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Docker
+postgres_data/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Tests
+coverage/
+playwright-report/
+test-results/
+
+# Clés et certificats (NE JAMAIS COMMITER)
+*.pem
+*.key
+*.cert
+*.p12
+
+# Exports VaultX (données utilisateur — NE PAS COMMITER)
+*.vaultx
