@@ -287,13 +287,13 @@ MIT License — Voir [LICENSE](LICENSE)
 
 | Nom | Matricule | Établissement |
 |-----|-----------|---------------|
-| ALE GONH-GOH Olushègun Clinton | TG24-09358 | IPNET Institute of Technology |
+| ALE GONH-GOH Olushègun Clinton | — | IPNET Institute of Technology |
 | KOUDADZE Kodjogan Josias | — | IPNET Institute of Technology |
 
 Niveau : Licence 1 Informatique — Réseaux  
 Année académique : 2025–2026
 
----
+
 
 <div align="center">
   <strong>VaultX</strong> — Vos mots de passe. Vos clés. Votre contrôle.
