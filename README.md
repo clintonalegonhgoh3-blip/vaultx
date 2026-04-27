@@ -16,6 +16,7 @@
 - [Structure du projet](#structure-du-projet)
 - [Roadmap](#roadmap)
 - [Licence](#licence)
+- [Vidéo](#Vidéo)
 
 ---
 
@@ -296,6 +297,10 @@ Année académique : 2025–2026
 ♦Voici le lien déployé sur Vercel
 
 https://vaultx-uw35.vercel.app/
+
+♦Vidéo
+
+https://drive.google.com/file/d/1vnTYGoRVaaTw73FmTblOHAxegmWJSFeX/view?usp=drive_link
 
 
 <div align="center">
