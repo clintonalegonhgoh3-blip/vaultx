@@ -293,6 +293,9 @@ MIT License — Voir [LICENSE](LICENSE)
 Niveau : Licence 1 Informatique — Réseaux  
 Année académique : 2025–2026
 
+♦Voici le lien déployé sur Vercel
+
+https://vaultx-uw35.vercel.app/
 
 
 <div align="center">
