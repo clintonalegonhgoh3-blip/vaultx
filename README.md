@@ -298,7 +298,7 @@ Année académique : 2025–2026
 
 https://vaultx-uw35.vercel.app/
 
-♦Vidéo
+♦Vidéo 7 min
 
 https://drive.google.com/file/d/1vnTYGoRVaaTw73FmTblOHAxegmWJSFeX/view?usp=drive_link
 
